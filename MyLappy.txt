@@ -5,3 +5,5 @@ Welcome to my lappy
 Keys
 Wireless
 Bluetooth
+SD Cardreader
+HD Web CAM
