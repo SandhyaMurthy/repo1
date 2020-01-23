@@ -7,5 +7,7 @@ Wireless
 Bluetooth
 SD Cardreader
 HD Web CAM
+DVD-RW
+intel core 13
 
 Thanks
